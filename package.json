@@ -2,8 +2,9 @@
   "name": "learning",
   "version": "1.0.0",
   "description": "learning git",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,3 +14,4 @@
     "express": "^4.21.2"
   }
 }
+
