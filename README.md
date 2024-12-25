@@ -12,5 +12,9 @@ learning git
 
   * CLone Repo
   * Do npm istall
-  * run this command  {npm start} to run the 
+  * run this command  {npm start} to run the
+
+## Link for Upstream this project
+  * git remote add upstream https://github.com/khanmdadil094/learning.git
+    
    
